@@ -1,0 +1,46 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Build files
+build/
+dist/
+*.egg-info/
+
+# Model checkpoints (Optional)
+*.h5
+*.keras
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+
+# Python cache files
+*.pyo
+*.pyd
+
+# Temporary files
+*.tmp
+*.temp
