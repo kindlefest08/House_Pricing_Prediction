@@ -183,6 +183,39 @@ The project includes:
 
 ---
 
+
+# Project Visualizations
+
+## 1. Sale Price Distribution
+
+Shows the distribution of house sale prices before applying the log transformation.
+
+![Sale Price Distribution](Images/sale_price_distribution.png)
+
+---
+
+## 2. Correlation Heatmap
+
+Displays the correlation among the most important numerical features.
+
+![Correlation Heatmap](Images/top_features_heatmap.png)
+
+---
+
+## 3. Actual vs Predicted Sale Price
+
+Compares the predicted house prices with the actual prices.
+
+![Actual vs Predicted](Images/actual_vs_predicted_sale_price.png)
+
+---
+
+## 4. Residual Plot
+
+Shows the distribution of residuals to evaluate model performance.
+
+![Residual Plot](Images/residual_plot.png)
+
 # Saved Model
 
 The trained Linear Regression model is saved using Joblib.
